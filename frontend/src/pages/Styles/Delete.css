@@ -1,0 +1,40 @@
+/* Delete.css */
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f5e3; /* Old book page color */
+    color: #333; /* Text color */
+    font-family: 'Times New Roman', serif; /* Vintage font */
+  }
+  
+  .header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .title {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .message {
+    font-style: italic;
+    margin-bottom: 20px;
+  }
+  
+  .button {
+    padding: 10px 20px;
+    background-color: #c0392b; /* Dark red color */
+    color: #fff; /* White text color */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: #962d22; /* Darker red color on hover */
+  }
+  
